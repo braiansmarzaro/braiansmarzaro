@@ -20,7 +20,7 @@ Alguns trabalhos desenvolvidos em python:
 </div>
 
 <div style="display: inline_block"><br>
- <img align="center" alt="Braian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <a href = "https://www.codewars.com/users/BraianSmarzaro" target="_blank"><img align="center" alt="Braian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="swagny" height="30" width="120" src="http://ForTheBadge.com/images/badges/built-with-swag.svg">
 </div>
 <!--
