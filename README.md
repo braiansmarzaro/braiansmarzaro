@@ -1,10 +1,11 @@
-### Bonjour ⚡
+### Bonjour  ⚡
 
 #### Estudante de Engenharia Metalúrgica - Ifes Vitória  2020.1
 
 #### Desenvolvendo conhecimento em Machine Learning
 
-
+Alguns trabalhos desenvolvidos em python:
+****Under Construction****
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braiansmarzaro&layout=compact)](https://github.com/braiansmarzaro/github-readme-stats)
 
@@ -20,7 +21,7 @@
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Braian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Braian-Python" height="30" width="120" src="http://ForTheBadge.com/images/badges/built-with-swag.svg">
+ <img align="center" alt="swagny" height="30" width="120" src="http://ForTheBadge.com/images/badges/built-with-swag.svg">
 </div>
 <!--
 
