@@ -20,7 +20,7 @@ Alguns trabalhos desenvolvidos em python:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braiansmarzaro&layout=compact)](https://github.com/braiansmarzaro/github-readme-stats)
 
 <div>
-  <a href = "https://lichess.org/@/OverDragon" target="_blank"><img align="center" alt="swagny" height="100" width="120" src="https://lichess1.org/assets/logo/lichess-pad12.svg" alt="logo" class="sc-csTbgd eNEvTA"></a>
+  <a href = "https://lichess.org/@/OverDragon" target="_blank"><img align="center" alt="swagny" height="50" width="100" src="https://lichess1.org/assets/_FWyGRF/logo/lichess-tile-wide.png" alt="logo" class="sc-csTbgd eNEvTA"></a>
   <a href="https://instagram.com/deivid.chess" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/deividchess" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:deividbraian5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -35,6 +35,7 @@ Alguns trabalhos desenvolvidos em python:
  <img align="center" alt="swagny" height="30" width="120" src="http://ForTheBadge.com/images/badges/built-with-swag.svg">
 </div>
 <!--
+https://lichess1.org/assets/logo/lichess-pad12.svg
 
 ![Snake animation](https://github.com/braiansmarzaro/braiansmarzaro/blob/output/github-contribution-grid-snake.svg)
 
