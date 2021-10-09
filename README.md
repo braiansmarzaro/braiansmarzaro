@@ -3,7 +3,7 @@
 <a href = "https://lichess.org/@/OverDragon" target="_blank">
 
 <br/>♜♞♝♚♛♝♞♜
-<br/>♟♟♟♟♟♟♟♟
+<br/>♙♙♙♙♙♙♙♙
 
 <br/>♙♙♙♙♙♙♙♙
 <br/>♖♘♗♔♕♗♘♖
