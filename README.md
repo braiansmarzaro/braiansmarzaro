@@ -23,8 +23,8 @@
                 <td class="light">♜</td>
                 <td class="dark">♞</td>
                 <td class="light">♝</td>
-                <td class="dark">♛</td>
-                <td class="light">♚</td>
+                <td class="dark">♚</td>
+                <td class="light">♛</td>
                 <td class="dark">♝</td>
                 <td class="light">♞</td>
                 <td class="dark">♜</td>
@@ -100,8 +100,8 @@
                 <td class="dark">♖</td>
                 <td class="light">♘</td>
                 <td class="dark">♗</td>
-                <td class="light">♕</td>
-                <td class="dark">♔</td>
+                <td class="light">♔</td>
+                <td class="dark">♕</td>
                 <td class="light">♗</td>
                 <td class="dark">♘</td>
                 <td class="light">♖</td>
