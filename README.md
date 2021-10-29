@@ -8,17 +8,6 @@
     <table class="chess-board">
         <tbody>
             <tr>
-                <th></th>
-                <th>h</th>
-                <th>g</th>
-                <th>f</th>
-                <th>e</th>
-                <th>d</th>
-                <th>c</th>
-                <th>b</th>
-                <th>a</th>
-            </tr>
-            <tr>
                 <th>1</th>
                 <td class="light">♜</td>
                 <td class="dark">♞</td>
@@ -105,6 +94,17 @@
                 <td class="light">♗</td>
                 <td class="dark">♘</td>
                 <td class="light">♖</td>
+            </tr>
+            <tr>
+                <th></th>
+                <th>h</th>
+                <th>g</th>
+                <th>f</th>
+                <th>e</th>
+                <th>d</th>
+                <th>c</th>
+                <th>b</th>
+                <th>a</th>
             </tr>
         </tbody>
     </table>
