@@ -112,7 +112,7 @@
 
 <a/>
 
-#### Estudante de Engenharia Metalúrgica - Ifes Vitória  2020.1
+#### Estudante de Engenharia Elétrica - Ifes Vitória  2020.1
 
 #### Desenvolvendo conhecimento em Machine Learning
 
