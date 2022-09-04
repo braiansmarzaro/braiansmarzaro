@@ -1,11 +1,19 @@
-### Bonjour  ⚡
-<a href = "https://lichess.org/@/OverDragon" target="_blank">
+### 
+<p align="center">
+    <a href="https://www.linkedin.com/in/deividsmarzaro/">
+    <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=braiansmarzaro&style=for-the-badge"/>
+</p>
 
 
-
+<p align="center">
+    Bonjour⚡ I'm Deivid Braian, a brazilian programmer.
+    <a href = "https://www.codewars.com/users/BraianSmarzaro" target="_blank"><img align="center" alt="Braian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</p>
 
 <body>
-    <table class="chess-board">
+    <table class="chess-board" align="center">
         <tbody>
             <tr>
                 <th>1</th>
@@ -110,40 +118,23 @@
     </table>
 </body>
 
-<a/>
+#### Electrical Engineering Student - Since 2020
 
-#### Estudante de Engenharia Elétrica - Ifes Vitória  2020.1
+#### Developing Machine Learning Skills
 
-#### Desenvolvendo conhecimento em Machine Learning
-
-Alguns trabalhos desenvolvidos em python:
+Some of my works:
 ****Under Construction****
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braiansmarzaro&layout=compact)](https://github.com/braiansmarzaro/github-readme-stats)
 
 <div>
-  <a href = "https://lichess.org/@/OverDragon" target="_blank"><img align="center" alt="swagny" height="50" width="100" src="https://lichess1.org/assets/_FWyGRF/logo/lichess-tile-wide.png" alt="logo" class="sc-csTbgd eNEvTA"></a>
   <a href="https://instagram.com/deivid.chess" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/deividchess" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:deividbraian5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/deividsmarzaro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  
  
 </div>
 
-<div style="display: inline_block"><br>
- <a href = "https://www.codewars.com/users/BraianSmarzaro" target="_blank"><img align="center" alt="Braian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="swagny" height="30" width="120" src="http://ForTheBadge.com/images/badges/built-with-swag.svg">
-</div>
 <!--
-https://lichess1.org/assets/logo/lichess-pad12.svg
-
-![Snake animation](https://github.com/braiansmarzaro/braiansmarzaro/blob/output/github-contribution-grid-snake.svg)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=braiansmarzaro&repo=github-readme-stats)](https://github.com/braiansmarzaro/github-readme-stats)
-
-[![Braian's GitHub stats](https://github-readme-stats.vercel.app/api?username=braiansmarzaro)](https://github.com/braiansmarzaro/github-readme-stats)
 
 Here are some ideas to get you started:
 
