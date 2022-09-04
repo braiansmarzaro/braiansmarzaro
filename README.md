@@ -9,7 +9,9 @@
 
 <p align="center">
     Bonjour⚡ I'm Deivid Braian, a brazilian programmer.
-    <a href = "https://www.codewars.com/users/BraianSmarzaro" target="_blank"><img align="center" alt="Braian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <a href = "https://www.codewars.com/users/BraianSmarzaro" target="_blank">
+    <img align="center" alt="Braian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+    </a>
 </p>
 
 <body>
