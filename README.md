@@ -14,6 +14,7 @@
     </a>
 </p>
 
+_Wanna play some chess?_
 <body>
     <table class="chess-board" align="center">
         <tbody>
