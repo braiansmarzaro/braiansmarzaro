@@ -1,11 +1,10 @@
-### 
+
 <p align="center">
     <a href="https://www.linkedin.com/in/deividsmarzaro/">
     <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=braiansmarzaro&style=for-the-badge"/>
 </p>
-
 
 <p align="center">
     Bonjour⚡ I'm Deivid Braian, a brazilian programmer.
@@ -15,115 +14,124 @@
 </p>
 
 _Wanna play some chess?_
-<body>
-    <table class="chess-board" align="center">
-        <tbody>
-            <tr>
-                <th>1</th>
-                <td class="light">♜</td>
-                <td class="dark">♞</td>
-                <td class="light">♝</td>
-                <td class="dark">♚</td>
-                <td class="light">♛</td>
-                <td class="dark">♝</td>
-                <td class="light">♞</td>
-                <td class="dark">♜</td>
-            </tr>
-            <tr>
-                <th>2</th>
-                <td class="dark">♟</td>
-                <td class="light">♟</td>
-                <td class="dark">♟</td>
-                <td class="light">♟</td>
-                <td class="dark">♟</td>
-                <td class="light">♟</td>
-                <td class="dark">♟</td>
-                <td class="light">♟</td>
-            </tr>
-            <tr>
-                <th>3</th>
-                <td class="light"></td>
-                <td class="dark"></td>
-                <td class="light"></td>
-                <td class="dark"></td>
-                <td class="light"></td>
-                <td class="dark"></td>
-                <td class="light"></td>
-                <td class="dark"></td>
-            </tr>
-            <tr>
-                <th>4</th>
-                <td class="dark"></td>
-                <td class="light"></td>
-                <td class="dark"></td>
-                <td class="light"></td>
-                <td class="dark"></td>
-                <td class="light"></td>
-                <td class="dark"></td>
-                <td class="light"></td>
-            </tr>
-            <tr>
-                <th>5</th>
-                <td class="light"></td>
-                <td class="dark"></td>
-                <td class="light"></td>
-                <td class="dark"></td>
-                <td class="light"></td>
-                <td class="dark"></td>
-                <td class="light"></td>
-                <td class="dark"></td>
-            </tr>
-            <tr>
-                <th>6</th>
-                <td class="dark"></td>
-                <td class="light"></td>
-                <td class="dark"></td>
-                <td class="light"></td>
-                <td class="dark"></td>
-                <td class="light"></td>
-                <td class="dark"></td>
-                <td class="light"></td>
-            </tr>
-            <tr>
-                <th>7</th>
-                <td class="light">♙</td>
-                <td class="dark">♙</td>
-                <td class="light">♙</td>
-                <td class="dark">♙</td>
-                <td class="light">♙</td>
-                <td class="dark">♙</td>
-                <td class="light">♙</td>
-                <td class="dark">♙</td>
-            </tr>
-            <tr>
-                <th>8</th>
-                <td class="dark">♖</td>
-                <td class="light">♘</td>
-                <td class="dark">♗</td>
-                <td class="light">♔</td>
-                <td class="dark">♕</td>
-                <td class="light">♗</td>
-                <td class="dark">♘</td>
-                <td class="light">♖</td>
-            </tr>
-            <tr>
-                <th></th>
-                <th>h</th>
-                <th>g</th>
-                <th>f</th>
-                <th>e</th>
-                <th>d</th>
-                <th>c</th>
-                <th>b</th>
-                <th>a</th>
-            </tr>
-        </tbody>
-    </table>
-</body>
 
-#### Electrical Engineering Student - Since 2020
+<p align="center">
+<table>
+  <tr>
+    <td></td>
+    <td class="label">A</td>
+    <td class="label">B</td>
+    <td class="label">C</td>
+    <td class="label">D</td>
+    <td class="label">E</td>
+    <td class="label">F</td>
+    <td class="label">G</td>
+    <td class="label">H</td>
+  </tr>
+  <tr>
+    <td class="label">8</td>
+    <td class="white">♖</td>
+    <td class="black">♘</td>
+    <td class="white">♗</td>
+    <td class="black">♕</td>
+    <td class="white">♔</td>
+    <td class="black">♗</td>
+    <td class="white">♘</td>
+    <td class="black">♖</td>
+  </tr>
+  <tr>
+    <td class="label">7</td>
+    <td class="black">♙</td>
+    <td class="black">♙</td>
+    <td class="black">♙</td>
+    <td class="black">♙</td>
+    <td class="black">♙</td>
+    <td class="black">♙</td>
+    <td class="black">♙</td>
+    <td class="black">♙</td>
+  </tr>
+  <tr>
+    <td class="label">6</td>
+    <td class="white"></td>
+    <td class="black"></td>
+    <td class="white"></td>
+    <td class="black"></td>
+    <td class="white"></td>
+    <td class="black"></td>
+    <td class="white"></td>
+    <td class="black"></td>
+  </tr>
+  <tr>
+    <td class="label">5</td>
+    <td class="black"></td>
+    <td class="white"></td>
+    <td class="black"></td>
+    <td class="white"></td>
+    <td class="black"></td>
+    <td class="white"></td>
+    <td class="black"></td>
+    <td class="white"></td>
+  </tr>
+  <tr>
+    <td class="label">4</td>
+    <td class="white"></td>
+    <td class="black"></td>
+    <td class="white"></td>
+    <td class="black"></td>
+    <td class="white"></td>
+    <td class="black"></td>
+    <td class="white"></td>
+    <td class="black"></td>
+  <tr>
+    <td class="label">3</td>
+    <td class="black"></td>
+    <td class="white"></td>
+    <td class="black"></td>
+    <td class="white"></td>
+    <td class="black"></td>
+    <td class="white"></td>
+    <td class="black"></td>
+    <td class="white"></td>
+  </tr>
+  <tr>
+    <td class="label">2</td>
+    <td class="white">♙</td>
+    <td class="white">♙</td>
+    <td class="white">♙</td>
+    <td class="white">♙</td>
+    <td class="white">♙</td>
+    <td class="white">♙</td>
+    <td class="white">♙</td>
+    <td class="white">♙</td>
+  </tr>
+  <tr>
+    <td class="label">1</td>
+    <td class="white">♜</td>
+    <td class="white">♞</td>
+    <td class="white">♝</td>
+    <td class="white">♛</td>
+    <td class="white">♚</td>
+    <td class="white">♝</td>
+    <td class="white">♞</td>
+    <td class="white">♜</td>
+  </tr>
 
-#### Developing Machine Learning Skills
+  <tr>
+    <td></td>
+    <td class="label">A</td>
+    <td class="label">B</td>
+    <td class="label">C</td>
+    <td class="label">D</td>
+    <td class="label">E</td>
+    <td class="label">F</td>
+    <td class="label">G</td>
+    <td class="label">H</td>
+  </tr>
+</table>
+</p>
+**Electrical Engineering Student - Since 2020**
+
+**Developing Machine Learning Skills**
 
 Some of my works:
 ****Under Construction****
@@ -141,6 +149,30 @@ Some of my works:
 </div>
 
 <!--
+
+♜	♞	♝	♚	♛	♝	♞	♜
+
+
+<head>
+    <style>
+    .black {
+        background-color: black;
+        width: 50px;
+        height: 50px;
+        }
+    .white {
+        background-color: white;
+        width: 50px;
+        height: 50px;
+        }
+    .label {
+        text-align: center;
+        vertical-align: middle;
+        font-size: larger;
+        }
+    </style>
+</head>
+
 
 Here are some ideas to get you started:
 
