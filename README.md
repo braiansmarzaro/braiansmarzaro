@@ -129,6 +129,7 @@ _Wanna play some chess?_
   </tr>
 </table>
 </p>
+
 **Electrical Engineering Student - Since 2020**
 
 **Developing Machine Learning Skills**
@@ -137,7 +138,7 @@ Some of my works:
 ****Under Construction****
 <p align="left">
   <a href="[https://github.com/braiansmarzaro/CNN-Big-Bang-Theory-Classifier]"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=braiansmarzaro&repo=CNN-Big-Bang-Theory-Classifier&theme=radical&hide_border=true&show_icons=false" alt="CNN-Big-Bang-Theory-Classifier"></a>
-
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braiansmarzaro&layout=compact)](https://github.com/braiansmarzaro/github-readme-stats)
 
