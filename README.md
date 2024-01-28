@@ -1,17 +1,26 @@
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/deividsmarzaro/">
-    <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
     <img src="https://komarev.com/ghpvc/?username=braiansmarzaro&style=for-the-badge"/>
 </p>
 
 <p align="center">
-    Bonjour⚡ I'm Deivid Braian, a brazilian programmer.
-    <a href = "https://www.codewars.com/users/BraianSmarzaro" target="_blank">
-    <img align="center" alt="Braian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-    </a>
+    Bonjour, I'm Deivid Braian, a Brazilian student and researcher. 🇧🇷
 </p>
+
+- ⚡Senior Electrical Engineering
+- 🤖Machine Learning and Deep Learning Projets
+- 💻Computer Vision and NLP researcher
+- 📊Data analysis enthusiast
+
+---
+
+Reach me via Linkedin or e-mail:
+
+<a href="https://www.linkedin.com/in/deividsmarzaro/">
+    <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<a href = "mailto:deividbraian45@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+---
 
 _Wanna play some chess?_
 
@@ -130,12 +139,8 @@ _Wanna play some chess?_
 </table>
 </p>
 
-**Electrical Engineering Student - Since 2020**
-
-**Developing Machine Learning Skills**
-
-Some of my works:
-****Under Construction****
+Some of my work:
+**Under Construction**
 <p align="left">
   <a href="[https://github.com/braiansmarzaro/CNN-Big-Bang-Theory-Classifier]"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=braiansmarzaro&repo=CNN-Big-Bang-Theory-Classifier&theme=radical&hide_border=true&show_icons=false" alt="CNN-Big-Bang-Theory-Classifier"></a>
 </p>
@@ -144,7 +149,8 @@ Some of my works:
 
 <div> 
     <!-- style="display: inline_block"><br/> -->
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <a href = "https://www.codewars.com/users/BraianSmarzaro" target="_blank">
+    <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a>
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align="center" alt="pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
     <img align="center" alt="numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -152,15 +158,6 @@ Some of my works:
     <img align="center" alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
     
 </div>
-
-
-<div>
-  <a href="https://instagram.com/deivid.chess" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/deividchess" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:deividbraian5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-</div>
-
 <!--
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1"/>
 
