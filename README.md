@@ -4,12 +4,13 @@
 </p>
 
 <p align="center">
-    Bonjour, I'm Deivid Braian, a Brazilian student and researcher. 🇧🇷
+    Bonjour, I'm Deivid Braian, a Brazilian researcher within Machine Learning field. 🇧🇷
 </p>
 
 - ⚡Senior Electrical Engineering
-- 🤖Machine Learning and Deep Learning Projets
-- 💻Computer Vision and NLP researcher
+- 🤖Machine Learning and Deep Learning Projects
+- 💻Computer Vision Research
+- 🗣 NLP Studies
 - 📊Data analysis enthusiast
 
 ---
