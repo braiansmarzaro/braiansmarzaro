@@ -18,10 +18,9 @@
 Reach me via Linkedin or e-mail:
 
 <a href="https://www.linkedin.com/in/deividsmarzaro/">
-    <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-<a href = "mailto:deividbraian45@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-linkedin.png" width="3%" alt="Deivid Braian LinkedIn" style="max-width: 100%;"></a>
 
----
+`deividbraian45@gmail.com`
 
 _Wanna play some chess?_
 
@@ -162,6 +161,7 @@ Some of my work:
 </div>
 <!--
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1"/>
+<img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 
 ♜	♞	♝	♚	♛	♝	♞	♜
 
