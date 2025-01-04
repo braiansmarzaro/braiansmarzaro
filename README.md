@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-    Bonjour, I'm Deivid Braian, a Brazilian researcher within Machine Learning field. 🇧🇷
+    Bonjour, I'm Deivid Braian, a researcher within the Machine Learning field. 🇧🇷
 </p>
 
 - ⚡Senior Electrical Engineering
@@ -12,6 +12,11 @@
 - 💻Computer Vision Research
 - 🗣 NLP Studies
 - 📊Data analysis enthusiast
+---
+
+<p align="left">
+    Communication Languages: 🇧🇷  🇺🇸  🇪🇸  🇫🇷
+</p>
 
 ---
 
