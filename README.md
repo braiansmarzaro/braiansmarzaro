@@ -25,7 +25,7 @@ Reach me via Linkedin or e-mail:
 <a href="https://www.linkedin.com/in/deividsmarzaro/">
 <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-linkedin.png" width="3%" alt="Deivid Braian LinkedIn" style="max-width: 100%;"></a>
 
-`deividbraian45@gmail.com`
+`contact@smarzaro.com`
 
 _Wanna play some chess?_
 
