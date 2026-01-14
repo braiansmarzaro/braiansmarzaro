@@ -7,11 +7,12 @@
     Bonjour, I'm Deivid Braian, a researcher within the Machine Learning field. 🇧🇷
 </p>
 
-- ⚡Senior Electrical Engineering
-- 🤖Machine Learning and Deep Learning Projects
+- ⚡Engineer
+- 🤖Machine Learning and Deep Learning
 - 💻Computer Vision Research
 - 🗣 NLP Studies
-- 📊Data analysis enthusiast
+- 🕴️LLM developer - Chatbot, RAG, Langchain, LangGraph, Agents
+- 📊Data analytics and critical thinking over problems
 ---
 
 <p align="left">
