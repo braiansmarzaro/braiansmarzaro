@@ -7,11 +7,11 @@
     Bonjour, I'm Deivid Braian, a researcher within the Machine Learning field. 🇧🇷
 </p>
 
+- 🕴️LLM Engineer / AI Engineer - Chatbot, RAG, Langchain, LangGraph, Agents
 - ⚡Engineer
 - 🤖Machine Learning and Deep Learning
 - 💻Computer Vision Research
-- 🗣 NLP Studies
-- 🕴️LLM developer - Chatbot, RAG, Langchain, LangGraph, Agents
+- 🗣 NLP Projects
 - 📊Data analytics and critical thinking over problems
 ---
 
@@ -145,10 +145,9 @@ _Wanna play some chess?_
 </table>
 </p>
 
-Some of my work:
-**Under Construction**
+**Some of my work:**
 <p align="left">
-  <a href="[https://github.com/braiansmarzaro/CNN-Big-Bang-Theory-Classifier]"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=braiansmarzaro&repo=CNN-Big-Bang-Theory-Classifier&theme=radical&hide_border=true&show_icons=false" alt="CNN-Big-Bang-Theory-Classifier"></a>
+  <a href=https://home.smarzaro.com/projects> https://home.smarzaro.com/projects</a>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braiansmarzaro&layout=compact)](https://github.com/braiansmarzaro/github-readme-stats)
